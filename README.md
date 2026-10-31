@@ -6,7 +6,7 @@
 I build agents that can actually use your phone — and the skills that make agents useful.
 
 <a href="https://x.com/wangzan101"><img src="https://img.shields.io/badge/X-@wangzan101-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<img src="https://img.shields.io/badge/WeChat-bolyn000-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+<img src="https://img.shields.io/badge/WeChat-%E7%8E%8B%E8%B5%9E01-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 <img src="https://img.shields.io/badge/📍-ShenZhen-555?style=flat-square" alt="Location" />
 
 </div>
