@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hi, 我是王博霖 (Bolyn) 👋
+# Hi, 我是王赞 (WangZan) 👋
 
 **我在做能替你“用手机”的 AI Agent，以及让 Agent 更好用的 Skills。**<br/>
 I build agents that can actually use your phone — and the skills that make agents useful.
 
 <a href="https://x.com/wangzan101"><img src="https://img.shields.io/badge/X-@wangzan101-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.wbolyn.com"><img src="https://img.shields.io/badge/Blog-wbolyn.com-1F222E?style=flat-square&logo=notion&logoColor=white" alt="Blog" /></a>
-<a href="mailto:1710998763@qq.com"><img src="https://img.shields.io/badge/Email-1710998763@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/WeChat-bolyn000-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 <img src="https://img.shields.io/badge/📍-ShenZhen-555?style=flat-square" alt="Location" />
 
@@ -42,6 +40,6 @@ I build agents that can actually use your phone — and the skills that make age
 ### 🙋 关于我
 
 理工男，从“零基础借助 AI 写出第一个上架 App”走到现在做 Agent。
-**自媒体里懂技术的，技术人里会码字的。** 在 [wbolyn.com](https://www.wbolyn.com) 写 AI 编程、Agent 与内容创作。
+**自媒体里懂技术的，技术人里会码字的。** 平时写 AI 编程、Agent 与内容创作。
 
 **常用：** Kotlin · Python · TypeScript · Swift · Claude Code · Cursor
