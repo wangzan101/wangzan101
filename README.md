@@ -16,8 +16,8 @@
 
 | Project | Description |
 |---|---|
-| **[Mika](https://github.com/wangzan101/Mika)** <br/> <img src="https://img.shields.io/github/stars/wangzan101/Mika?style=flat-square&color=1f6feb" /> | Your personal AI assistant on Android — it operates apps and the web on a hidden background screen to get things done, while you keep using your phone. Kotlin · Jetpack Compose |
-| **[iPhone Agent](https://github.com/wangzan101/iphone-agent)** <br/> <img src="https://img.shields.io/github/stars/wangzan101/iphone-agent?style=flat-square&color=1f6feb" /> | The first agent for your iPhone. Drives a real iPhone through macOS iPhone Mirroring — no jailbreak needed. [iphone-agent.com](https://iphone-agent.com) |
+| **[Mika](https://github.com/wangzan101/Mika)** <br/> <img src="https://img.shields.io/github/stars/wangzan101/Mika?style=flat-square&color=1f6feb" /> | Your personal AI assistant on Android — it operates apps and the web on a hidden background screen to get things done, while you keep using your phone. |
+| **[iPhone Agent](https://github.com/wangzan101/iphone-agent)** <br/> <img src="https://img.shields.io/github/stars/wangzan101/iphone-agent?style=flat-square&color=1f6feb" /> | The first agent for your iPhone. Drives a real iPhone through macOS iPhone Mirroring. [iphone-agent.com](https://iphone-agent.com) |
 
 ### 🧩 Agent Skills
 
